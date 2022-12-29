@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(134, 181, 241);
+    font-family: sans-serif;
+}
+.form{
+    max-width: 500px;
+    margin-left: 9%;
+    padding:2rem;
+}
+label{
+    display: block;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+input, textarea{
+    display: block;
+    width: 100%;
+    border: 2px;
+    padding: .25rem;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+#btn{
+    border: 0;
+    background: grey;
+    padding:.5rem;
+    color: black;
+    margin: 1rem 0;
+    width: auto;
+    cursor: pointer;
+}
+
+
+
+

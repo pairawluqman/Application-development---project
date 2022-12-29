@@ -1,0 +1,11 @@
+.Logout{
+    position: absolute;
+    top: 2%;
+    right: 1%;
+    cursor: pointer;
+    border: 2px solid;
+    
+}
+.Logout:visited{
+    color: blue;
+}
